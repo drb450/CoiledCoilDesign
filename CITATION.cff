@@ -8,8 +8,8 @@ message: >-
   of coiled-coil protein gelation dynamics and structure
 type: software
 authors:
-  - given-names: Britton
-    family-names: Dustin
+  - given-names: Dustin
+    family-names: Britton
     email: drb450@nyu.edu
     affiliation: NYU
     orcid: 'https://orcid.org/0000-0001-6943-3064'
