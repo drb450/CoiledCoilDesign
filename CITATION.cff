@@ -1,0 +1,26 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: CoiledCoilDesign
+message: >-
+  Please also cite Britton et al. Computational prediction
+  of coiled-coil protein gelation dynamics and structure
+type: software
+authors:
+  - given-names: Britton
+    family-names: Dustin
+    email: drb450@nyu.edu
+    affiliation: NYU
+    orcid: 'https://orcid.org/0000-0001-6943-3064'
+repository-code: 'https://github.com/drb450/CoiledCoilDesign'
+abstract: >-
+  Monte-carlo search employed to interface with Rosetta and
+  APBS-PDB2PQR to design coiled-coil hydrogels with targeted
+  Rosetta Scores and Electrostatic Potential Energies
+keywords:
+  - Protein Design
+license: MIT
+commit: '10001'
+version: '1'
+date-released: '2023-06-26'
