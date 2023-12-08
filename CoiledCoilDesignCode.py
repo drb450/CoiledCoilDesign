@@ -1,4 +1,4 @@
-#Please cite "Computational prediction of coiled-coil protein gelation dynamics and structure" by Britton et al
+#Please cite "Computational prediction of coiled-coil protein gelation dynamics and structure" by Dustin Britton
 
 #Some files will be generated for user analysis during and after the simulation:
 # "scoring" file is the main output file that will generate a list of mutations made, the zeroth mutation is the first and so on out of 1000 (or the total may be changed by the user). Following columns will be the Rosetta Score, N-temrinal electrostatic potential surface energy, C-terminal electrostatic potential surface energy, residue position, residue mutation, followed by the sequence with residues separated by columns. Finally the status to accept or reject is shown next to the integer probability as to whether the mutation would be accepted in the final column.
